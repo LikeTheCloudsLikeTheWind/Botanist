@@ -1,5 +1,5 @@
 # Botanist
 GitとPythonを勉強しています。
 I study Git and Python
-"BOTANIST "はスマートフォンのアプリケーションです。
-"Botanist" is application  of smartphone. 
+"BOTANIST "は植物を認識するアプリケーションです。
+"Botanist" is an application that recognizes plants.
