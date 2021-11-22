@@ -4,5 +4,3 @@
 
 ## 言語：Python
 ## フレームワーク：Kivy
-
-#alksdjfaoiefj;aldv;ln
